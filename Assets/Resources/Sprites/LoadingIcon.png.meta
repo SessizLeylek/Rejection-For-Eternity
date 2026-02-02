@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 448fd8c7a925f7147ab976e22efef6b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8961836850334082660
+    second: LoadingIcon_0
+  - first:
+      213: 5232633172077181959
+    second: LoadingIcon_1
+  - first:
+      213: 7906277230652682869
+    second: LoadingIcon_2
+  - first:
+      213: -4849102745531193686
+    second: LoadingIcon_3
+  - first:
+      213: -6163562410240899253
+    second: LoadingIcon_4
+  - first:
+      213: 7492708405167620824
+    second: LoadingIcon_5
+  - first:
+      213: -6310970155014267134
+    second: LoadingIcon_6
+  - first:
+      213: 380576021815569528
+    second: LoadingIcon_7
+  - first:
+      213: 1828546296807842406
+    second: LoadingIcon_8
+  - first:
+      213: -7263149996580499826
+    second: LoadingIcon_9
+  - first:
+      213: -8010080480914701387
+    second: LoadingIcon_10
+  - first:
+      213: 2304877941026830356
+    second: LoadingIcon_11
+  - first:
+      213: 1443099454932862285
+    second: LoadingIcon_12
+  - first:
+      213: 3294129430988536971
+    second: LoadingIcon_13
+  - first:
+      213: -1323936597471348159
+    second: LoadingIcon_14
+  - first:
+      213: 4248678445919080850
+    second: LoadingIcon_15
+  - first:
+      213: -8428078536011277483
+    second: LoadingIcon_16
+  - first:
+      213: -769049051328258829
+    second: LoadingIcon_17
+  - first:
+      213: 4716843515860860741
+    second: LoadingIcon_18
+  - first:
+      213: -6886467156050367707
+    second: LoadingIcon_19
+  - first:
+      213: 3317318118484796696
+    second: LoadingIcon_20
+  - first:
+      213: -1996509950197638630
+    second: LoadingIcon_21
+  - first:
+      213: -5260146254944028288
+    second: LoadingIcon_22
+  - first:
+      213: -4448703157809321217
+    second: LoadingIcon_23
+  - first:
+      213: 6605047655963984429
+    second: LoadingIcon_24
+  - first:
+      213: 7109940182712486731
+    second: LoadingIcon_25
+  - first:
+      213: 4600813913634894951
+    second: LoadingIcon_26
+  - first:
+      213: -229294160925905216
+    second: LoadingIcon_27
+  - first:
+      213: -9149119855620158639
+    second: LoadingIcon_28
+  - first:
+      213: -6601473077937524654
+    second: LoadingIcon_29
+  - first:
+      213: 1942497148641003582
+    second: LoadingIcon_30
+  - first:
+      213: -5497672862282708552
+    second: LoadingIcon_31
+  - first:
+      213: 8138540702921597377
+    second: LoadingIcon_32
+  - first:
+      213: 7561511247845823402
+    second: LoadingIcon_33
+  - first:
+      213: -4016837365723585965
+    second: LoadingIcon_34
+  - first:
+      213: 4482741457808085999
+    second: LoadingIcon_35
+  - first:
+      213: -1524494972858742688
+    second: LoadingIcon_36
+  - first:
+      213: 8056931432027023116
+    second: LoadingIcon_37
+  - first:
+      213: -3948540970482119770
+    second: LoadingIcon_38
+  - first:
+      213: -3120788151471143802
+    second: LoadingIcon_39
+  - first:
+      213: -1496040194381686623
+    second: LoadingIcon_40
+  - first:
+      213: -5372473201564609992
+    second: LoadingIcon_41
+  - first:
+      213: 2586034542610563461
+    second: LoadingIcon_42
+  - first:
+      213: 1244198467785621451
+    second: LoadingIcon_43
+  - first:
+      213: -8728422030764049601
+    second: LoadingIcon_44
+  - first:
+      213: 2229336175293862975
+    second: LoadingIcon_45
+  - first:
+      213: -6658608576851515327
+    second: LoadingIcon_46
+  - first:
+      213: 6734753449848706206
+    second: LoadingIcon_47
+  - first:
+      213: 8122141310070499387
+    second: LoadingIcon_48
+  - first:
+      213: 6237093868808886940
+    second: LoadingIcon_49
+  - first:
+      213: -5660569481188117605
+    second: LoadingIcon_50
+  - first:
+      213: -4417132076904385232
+    second: LoadingIcon_51
+  - first:
+      213: -2941053106226885635
+    second: LoadingIcon_52
+  - first:
+      213: 973337880113958356
+    second: LoadingIcon_53
+  - first:
+      213: -6819656301631096936
+    second: LoadingIcon_54
+  - first:
+      213: -1948278639985069899
+    second: LoadingIcon_55
+  - first:
+      213: 4888166904542060236
+    second: LoadingIcon_56
+  - first:
+      213: 5464990548910605584
+    second: LoadingIcon_57
+  - first:
+      213: 5152030957155230777
+    second: LoadingIcon_58
+  - first:
+      213: 5075855715045545787
+    second: LoadingIcon_59
+  - first:
+      213: -2364673410317563030
+    second: LoadingIcon_60
+  - first:
+      213: 5037121150907742988
+    second: LoadingIcon_61
+  - first:
+      213: 7557268919202705567
+    second: LoadingIcon_62
+  - first:
+      213: -9015439067039002012
+    second: LoadingIcon_63
+  - first:
+      213: 1539003578353485842
+    second: LoadingIcon_64
+  - first:
+      213: 7679472161285291766
+    second: LoadingIcon_65
+  - first:
+      213: -7402946534480035878
+    second: LoadingIcon_66
+  - first:
+      213: -9032917988916697180
+    second: LoadingIcon_67
+  - first:
+      213: 3196186837300206930
+    second: LoadingIcon_68
+  - first:
+      213: -4146847314819705906
+    second: LoadingIcon_69
+  - first:
+      213: -2512222009963174970
+    second: LoadingIcon_70
+  - first:
+      213: -465473283991557420
+    second: LoadingIcon_71
+  - first:
+      213: 4782013865372244786
+    second: LoadingIcon_72
+  - first:
+      213: -3502470915729836634
+    second: LoadingIcon_73
+  - first:
+      213: 7794768151180407930
+    second: LoadingIcon_74
+  - first:
+      213: -8838028933856081995
+    second: LoadingIcon_75
+  - first:
+      213: -1801166429352712799
+    second: LoadingIcon_76
+  - first:
+      213: -8440754623674818143
+    second: LoadingIcon_77
+  - first:
+      213: 7039755130330825565
+    second: LoadingIcon_78
+  - first:
+      213: 5367957662292746281
+    second: LoadingIcon_79
+  - first:
+      213: 9116995487060419398
+    second: LoadingIcon_80
+  - first:
+      213: 8043262638450624651
+    second: LoadingIcon_81
+  - first:
+      213: 8199957264454451638
+    second: LoadingIcon_82
+  - first:
+      213: 990331992381553724
+    second: LoadingIcon_83
+  - first:
+      213: -5395730168604950171
+    second: LoadingIcon_84
+  - first:
+      213: 2409809984366754932
+    second: LoadingIcon_85
+  - first:
+      213: 4448276257285520530
+    second: LoadingIcon_86
+  - first:
+      213: 6948836321321503958
+    second: LoadingIcon_87
+  - first:
+      213: -5805770057050342241
+    second: LoadingIcon_88
+  - first:
+      213: -4139164179460617588
+    second: LoadingIcon_89
+  - first:
+      213: -195100690044359962
+    second: LoadingIcon_90
+  - first:
+      213: -429746299112675461
+    second: LoadingIcon_91
+  - first:
+      213: 3596562477293186205
+    second: LoadingIcon_92
+  - first:
+      213: -3957506390726920532
+    second: LoadingIcon_93
+  - first:
+      213: -8975418903591204708
+    second: LoadingIcon_94
+  - first:
+      213: 746282374409882652
+    second: LoadingIcon_95
+  - first:
+      213: 7643292388446535815
+    second: LoadingIcon_96
+  - first:
+      213: -2997447882902070597
+    second: LoadingIcon_97
+  - first:
+      213: 7490734128516281987
+    second: LoadingIcon_98
+  - first:
+      213: 7270292348833865621
+    second: LoadingIcon_99
+  - first:
+      213: -1993300395116554560
+    second: LoadingIcon_100
+  - first:
+      213: 8410264412122884691
+    second: LoadingIcon_101
+  - first:
+      213: -5271372021454724448
+    second: LoadingIcon_102
+  - first:
+      213: 2412722396201693871
+    second: LoadingIcon_103
+  - first:
+      213: -2854551470478002459
+    second: LoadingIcon_104
+  - first:
+      213: -6816651551730185127
+    second: LoadingIcon_105
+  - first:
+      213: 432084950687043259
+    second: LoadingIcon_106
+  - first:
+      213: 6145188105556091229
+    second: LoadingIcon_107
+  - first:
+      213: 1060645606918847214
+    second: LoadingIcon_108
+  - first:
+      213: 6547790105647262772
+    second: LoadingIcon_109
+  - first:
+      213: 7788126514238548654
+    second: LoadingIcon_110
+  - first:
+      213: -1909048853036594863
+    second: LoadingIcon_111
+  - first:
+      213: 3857316768453803388
+    second: LoadingIcon_112
+  - first:
+      213: 8071488834676937478
+    second: LoadingIcon_113
+  - first:
+      213: -4691392762546527486
+    second: LoadingIcon_114
+  - first:
+      213: 418106952816891999
+    second: LoadingIcon_115
+  - first:
+      213: -1508888871315262134
+    second: LoadingIcon_116
+  - first:
+      213: 2517480414900721717
+    second: LoadingIcon_117
+  - first:
+      213: 4036657519132110027
+    second: LoadingIcon_118
+  - first:
+      213: 6500262405270344373
+    second: LoadingIcon_119
+  - first:
+      213: -9076957285341046947
+    second: LoadingIcon_120
+  - first:
+      213: 1395123822817327202
+    second: LoadingIcon_121
+  - first:
+      213: 1077038342121807753
+    second: LoadingIcon_122
+  - first:
+      213: -7350595937578582431
+    second: LoadingIcon_123
+  - first:
+      213: 8242037423992761925
+    second: LoadingIcon_124
+  - first:
+      213: 7330554812770957658
+    second: LoadingIcon_125
+  - first:
+      213: -3136907040395600295
+    second: LoadingIcon_126
+  - first:
+      213: -318324483207354885
+    second: LoadingIcon_127
+  - first:
+      213: 387071335721865194
+    second: LoadingIcon_128
+  - first:
+      213: -4839272503197201299
+    second: LoadingIcon_129
+  - first:
+      213: 2467498958149515625
+    second: LoadingIcon_130
+  - first:
+      213: -1032099092005882449
+    second: LoadingIcon_131
+  - first:
+      213: -127486870308866831
+    second: LoadingIcon_132
+  - first:
+      213: 8262093686037713538
+    second: LoadingIcon_133
+  - first:
+      213: -6349276234051613128
+    second: LoadingIcon_134
+  - first:
+      213: -6033019504293441043
+    second: LoadingIcon_135
+  - first:
+      213: 1480278818188223634
+    second: LoadingIcon_136
+  - first:
+      213: 4234452143765770265
+    second: LoadingIcon_137
+  - first:
+      213: 8836836345075082430
+    second: LoadingIcon_138
+  - first:
+      213: -1771775505210536780
+    second: LoadingIcon_139
+  - first:
+      213: 2168504603889269019
+    second: LoadingIcon_140
+  - first:
+      213: 327626038793937093
+    second: LoadingIcon_141
+  - first:
+      213: -8394418444733069211
+    second: LoadingIcon_142
+  - first:
+      213: -2419967175109592827
+    second: LoadingIcon_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoadingIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662b2f2227de5c70800000000000000
+      internalID: 8961836850334082660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf595752c0e9840800000000000000
+      internalID: 5232633172077181959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ffc4804db8bd60800000000000000
+      internalID: 7906277230652682869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6ed3d9eb684bcb0800000000000000
+      internalID: -4849102745531193686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4704a2d4a0a67aa0800000000000000
+      internalID: -6163562410240899253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2899fa8927bf760800000000000000
+      internalID: 7492708405167620824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f584ab41eea68a0800000000000000
+      internalID: -6310970155014267134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_7
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c295e10e3184500800000000000000
+      internalID: 380576021815569528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662669c3b2d406910800000000000000
+      internalID: 1828546296807842406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e80775f8b143b90800000000000000
+      internalID: -7263149996580499826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30ac8ed3a76d090800000000000000
+      internalID: -8010080480914701387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingIcon_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418b98d86429cff10800000000000000
+      internalID: 2304877941026830356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 18049ece611f3c34da964f0ff17adca2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LoadingIcon_0: 8961836850334082660
+      LoadingIcon_1: 5232633172077181959
+      LoadingIcon_10: -8010080480914701387
+      LoadingIcon_11: 2304877941026830356
+      LoadingIcon_2: 7906277230652682869
+      LoadingIcon_3: -4849102745531193686
+      LoadingIcon_4: -6163562410240899253
+      LoadingIcon_5: 7492708405167620824
+      LoadingIcon_6: -6310970155014267134
+      LoadingIcon_7: 380576021815569528
+      LoadingIcon_8: 1828546296807842406
+      LoadingIcon_9: -7263149996580499826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c93cb285d7e514aa07c95b657b50c5, type: 3}
+  m_Name: CardResources
+  m_EditorClassIdentifier: 
+  CardObjectTextOnly: {fileID: 8509391248947602559, guid: e2ab1a8056947f04cb4e880670ba7fc5, type: 3}
+  CardObjectWithImage: {fileID: 5293139408930867006, guid: 9b2a7f32330c32e478a859a1df4eda17, type: 3}
+  cardTypeColors:
+  - {r: 0.75, g: 0.75, b: 0.1875, a: 1}
+  - {r: 0.18823527, g: 0.5620914, b: 0.7490196, a: 1}
+  - {r: 0.75, g: 0.1875, b: 0.1875, a: 1}
+  - {r: 0.7529412, g: 0.1882353, b: 0.47058824, a: 1}

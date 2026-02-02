@@ -1,0 +1,34 @@
+player starts with 5 random cards and 3 discards
+player can play their cards to talk
+each card play grants one discard and restores missing card slots
+best strategy is to use appropriate STRUCTURE, TOPIC and TONE cards
+each play gives more info about the girlfriend's interests and tone of choice
+playing wrong cards deplete the attraction and vice versa
+player also can play jokers, one time use cards (i.e. prevent rejection for this hand)
+low attraction ends the date and resets, high attraction results in win
+
+1. Decide on STRUCTURE, TOPIC, TONE cards
+2. Generate a relevance graph of cards of a class, (use llm if possible)
+3. Prompt engineer the sentence generation
+
+Characters:
+- Caveman
+- Viking
+- Janissary
+- Modern
+- Cyborg
+
+STRUCTURE:
+Greeting, Casual Opener, Direct Opener, Light Compliment, Bold Compliment, Small Talk, Personal Question, Tease, Emotional Disclosure, Validation, Follow-up, Flirt, Respect, Apology, Ask-Out, Harassment, Contradiction, Mockery, Fun-fact, Mourning +(Filler)
+
+TOPIC:
+Weather, Trees, Flowers, Fruits, Clouds, Hike, Sky, Birds, Moon, Ocean, Fight, Trauma, Loneliness, Violence, Threat, Abuse, Weapons, Fear, Tears, Regrets, Family, Friends, Dating, Trust, Love, Partner, Breakups, Gossip, Marriage, Conflict, Games, Movies, Sports, Travel, Music, Books, Relax, Sleep, Food, Hobbies, Work, Chores, Commute, Shopping, Routines, Stress, News, Money, Plans, Purpose, Internet, Phones, Robots, Cyber, Gaming, Future, Power, Laws, Global Warming, Disasters
+
+TONE:
+Warm, Playful, Enthusiastic, Sarcastic, Defensive, Aggressive, Serious, Curious, Calm, Reserved, Flirty, Polite, Annoyed, Depressed, Sincere, Confident, Shy, Detached, Supportive, Uncertain
+
+STATS:
+Comfort, Attraction, Trust, Emotional Depth, Playfulness
+Conversation Progress, Percieved Intelligence, Awareness, Respectability
+
+- title screen
